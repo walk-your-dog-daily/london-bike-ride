@@ -1,4 +1,4 @@
-Getting my feet wet with end-to-end data analytics (Python & Tableau)
+Getting my feet wet with end-to-end data analytics (Jupyter & Tableau)
 
 Data gathering > Data exploration > Data manipulation > Visualization
 
